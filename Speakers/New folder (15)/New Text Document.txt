@@ -1,0 +1,10 @@
+Audio features
+
+Woofer: 133 mm aluminium
+Midrange: 102 mm aluminium
+Tweeter: 25 mm soft dome
+Enclosure: Bass-reflex
+Impedance: 4 Ohm
+Frequency Range: 50 - 20.000 Hz
+Sensitivity (2.83V/1m): 85 dB
+Maximum Power: 140 Watt

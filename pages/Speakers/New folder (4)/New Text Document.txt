@@ -1,0 +1,21 @@
+Type	Bluetooth Speakers / Wireless Speakers
+Power Output	Power Output: 20W (2*3” Woofer)
+Speaker System	Wireless
+Bluetooth	Yes
+Tuner	No
+Lighting Effects	Yes
+Karaoke	No
+Playable Discs (Audio)	No
+Playable Discs (Video)	No
+Inputs	AUX IN (3.5 mm)
+Memory Card / USB Support	USB
+Built-In Microphone	No
+Remote Control	No
+Play Time	4.5 Hours Approximately
+Charging Time	4 Hours Approximately
+Battery	Internal Li-Ion Battery
+Power Source / Voltage	230V/50Hz input
+Dimensions	135 x 135 x 300 mm
+Weight	1.7Kg
+Colors	Black
+Other Information	Party Lights
